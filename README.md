@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jaredriskus1/threat-hunting-scenario-tor)**
-- **[Threat Hunting Scenario (Just Another Day)] 
+- **[Threat Hunting Scenario (Just Another Day)] (https://github.com/jaredriskus1/Threat-Hunt-Just-Another-Day)**
 <hr/>
 
 ## 🤳 Connect With Me
